@@ -1,0 +1,1 @@
+#it creates as a package for the components folder
